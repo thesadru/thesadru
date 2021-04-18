@@ -1,10 +1,10 @@
 # About me
-Heya, I'm sadru, a teen programmer. I live in Prague, Czech Republic. I have taken classes on python during 8th grade, since then I have been actively programming and reached intermediate level. I program mainly in python but I want to learn a bit of js. I make mostly api wrappers and downloaders, but I sometimes also make libraries and some smaller projects for school.
+Heya, I'm sadru, a programmer from Czech Republic. I have taken classes on python during 8th grade, since then I have been actively coding. I use mainly python but I want to learn a bit of js. I make mostly api wrappers and downloaders, but I sometimes also make libraries and some smaller projects for school.
 
 If you want to contact me, the best way is through [Discord](https://discord.com/users/454513969265115137) (sadru#1323). I most likely won't take any friends so just join some server I'm in (for example [TPH](https://discord.gg/programming)). My time zone GMT+1.
 
 ## My hobbies and school
-I enjoy programming and watching anime. I go to high school and want to study computer science. I really enjoy psychology and theoretical politics.
+I enjoy programming and watching anime. I go to high school and want to study computer science. I also enjoy psychology.
 
 ## My projects
 My biggest project are [`genshinstats`](https://github.com/thesadru/genshinstats) and [`animethemes-dl`](https://github.com/thesadru/animethemes-dl), please check them out.
