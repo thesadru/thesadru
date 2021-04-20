@@ -7,7 +7,7 @@ If you want to contact me, the best way is through [Discord](https://discord.com
 I enjoy programming and watching anime. I go to high school and want to study computer science. I also enjoy psychology.
 
 ## My projects
-My biggest project are [`genshinstats`](https://github.com/thesadru/genshinstats) and [`animethemes-dl`](https://github.com/thesadru/animethemes-dl), please check them out.
+My biggest project are [`genshinstats`](https://github.com/thesadru/genshinstats), which I'm currently working on, and [`animethemes-dl`](https://github.com/thesadru/animethemes-dl), which has been abandoned. Please check them out.
 
 ![Sadru's github stats](https://github-readme-stats.vercel.app/api?username=thesadru&show_icons=true&theme=radical)
 
