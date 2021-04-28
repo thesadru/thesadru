@@ -19,11 +19,14 @@ My biggest project are [`genshinstats`](https://github.com/thesadru/genshinstats
 [![Github](https://img.shields.io/badge/github-%23333333.svg?&logo=github&style=for-the-badge&logoColor=white)](https://github.com/thesadru)
 [![PyPi](https://img.shields.io/badge/pypi-%230478D7.svg?&logo=pypi&style=for-the-badge&logoColor=white)](https://pypi.org/user/sadru)
 
-[![Reddit](https://img.shields.io/badge/reddit-%23FF4500.svg?&logo=reddit&style=for-the-badge&logoColor=white)](https://www.reddit.com/user/thesadru)
 [![Discord](https://img.shields.io/badge/discord-%237289DA.svg?&logo=discord&style=for-the-badge&logoColor=white)](https://discord.com/users/454513969265115137)
-[![Twitter](https://img.shields.io/badge/twitter-%2355ACEE.svg?&logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/thesadru)
 [![AniList](https://img.shields.io/badge/anilist-%23000FFF.svg?&logo=anilist&style=for-the-badge&logoColor=white)](https://anilist.co/user/sadru)
+[![Twitter](https://img.shields.io/badge/twitter-%2355ACEE.svg?&logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/thesadru)
+[![Reddit](https://img.shields.io/badge/reddit-%23FF4500.svg?&logo=reddit&style=for-the-badge&logoColor=white)](https://www.reddit.com/user/thesadru)
+
+## games
 [![osu!](https://img.shields.io/badge/osu!-%23ff66aa.svg?&logo=osu!&style=for-the-badge&logoColor=white)](https://osu.ppy.sh/users/16573307)
+[![Genshin Impact](https://img.shields.io/badge/Genshin%20Impact-%23555555.svg?&logo=genshin&style=for-the-badge&logoColor=white)](https://osu.ppy.sh/users/16573307)
 
 ## Languages
 [![Python](https://img.shields.io/badge/python-3.9-%234B8BBE.svg?&logo=python&style=for-the-badge&logoColor=white)](https://www.python.org/)
