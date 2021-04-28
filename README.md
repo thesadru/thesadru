@@ -24,9 +24,9 @@ My biggest project are [`genshinstats`](https://github.com/thesadru/genshinstats
 [![Twitter](https://img.shields.io/badge/twitter-%2355ACEE.svg?&logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/thesadru)
 [![Reddit](https://img.shields.io/badge/reddit-%23FF4500.svg?&logo=reddit&style=for-the-badge&logoColor=white)](https://www.reddit.com/user/thesadru)
 
-## games
+## Games
 [![osu!](https://img.shields.io/badge/osu!-%23ff66aa.svg?&logo=osu!&style=for-the-badge&logoColor=white)](https://osu.ppy.sh/users/16573307)
-[![Genshin Impact](https://img.shields.io/badge/Genshin%20Impact-%23555555.svg?&logo=genshin&style=for-the-badge&logoColor=white)](https://osu.ppy.sh/users/16573307)
+[![Genshin Impact](https://img.shields.io/badge/Genshin%20Impact-%23555555.svg?&logo=genshin&style=for-the-badge&logoColor=white)](https://www.hoyolab.com/genshin/accountCenter/gameRecord?id=8366222)
 
 ## Languages
 [![Python](https://img.shields.io/badge/python-3.9-%234B8BBE.svg?&logo=python&style=for-the-badge&logoColor=white)](https://www.python.org/)
