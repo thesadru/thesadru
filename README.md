@@ -23,6 +23,7 @@ My biggest project are [`genshinstats`](https://github.com/thesadru/genshinstats
 [![AniList](https://img.shields.io/badge/anilist-%23000FFF.svg?&logo=anilist&style=for-the-badge&logoColor=white)](https://anilist.co/user/sadru)
 [![Twitter](https://img.shields.io/badge/twitter-%2355ACEE.svg?&logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/thesadru)
 [![Reddit](https://img.shields.io/badge/reddit-%23FF4500.svg?&logo=reddit&style=for-the-badge&logoColor=white)](https://www.reddit.com/user/the_sadru)
+[](https://discord.gg/DPeqMSBGVB)
 
 ## Games
 [![osu!](https://img.shields.io/badge/osu!-%23ff66aa.svg?&logo=osu!&style=for-the-badge&logoColor=white)](https://osu.ppy.sh/users/16573307)
