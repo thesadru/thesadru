@@ -7,7 +7,7 @@ If you want to contact me or ask me any questions, the best way is through [Disc
 I enjoy programming and watching anime. I go to high school and want to study computer science. I also enjoy psychology.
 
 ## My projects
-My biggest project are [`genshinstats`](https://github.com/thesadru/genshinstats), which I'm currently working on, and [`animethemes-dl`](https://github.com/thesadru/animethemes-dl), which has been abandoned. Please check them out.
+My current projects are [`genshinstats`](https://github.com/thesadru/genshinstats) - an api wrapper for genshin impact, and [`culturebot`](https://github.com/thesadru/culturebot) - a bot for my private discord server.
 
 ![Sadru's github stats](https://github-readme-stats.vercel.app/api?username=thesadru&show_icons=true&theme=radical)
 
