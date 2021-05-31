@@ -33,5 +33,5 @@ My current projects are [`genshinstats`](https://github.com/thesadru/genshinstat
 [![Python](https://img.shields.io/badge/python-3.9-%234B8BBE.svg?&logo=python&style=for-the-badge&logoColor=white)](https://www.python.org/)
 
 ## Tools
-[![VsCode](https://img.shields.io/badge/VsCode-%230078D7.svg?&logo=vscode&style=for-the-badge&logoColor=white)](https://code.visualstudio.com/)
+[![VsCode](https://img.shields.io/badge/VsCode-%230078D7.svg?&logo=vs-code&style=for-the-badge&logoColor=white)](https://code.visualstudio.com/)
 [![Windows 10](https://img.shields.io/badge/windows-10-%230078D7.svg?&logo=windows&style=for-the-badge&logoColor=white)](https://www.linux.org/)
