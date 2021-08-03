@@ -1,7 +1,7 @@
 # About me
 Heya, I'm sadru, a programmer from Czech Republic. I have learned python when I was 14 and since then I have been actively programming. I mainly use python but I want to learn a bit of js. I make mostly api wrappers and downloaders, but I sometimes also make libraries and some smaller projects for school.
 
-If you want to contact me or ask me any questions, the best way is through [Discord](https://discord.com/users/454513969265115137) (sadru#5438). I most likely won't take any friends so just join some server I'm in (for example [TPH](https://discord.gg/programming)). My time zone GMT+1.
+If you want to contact me or ask me any questions, the best way is through [Discord](https://discord.com/users/454513969265115137) (sadru#5438). I most likely won't take any friends so just join [my own private server](https://discord.gg/sMkSKRPuCR).
 
 ## My hobbies and school
 I enjoy programming and watching anime. I go to high school and want to study computer science. I also enjoy psychology.
