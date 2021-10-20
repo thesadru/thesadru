@@ -41,7 +41,8 @@ I enjoy programming and watching anime. I'm currently in high school and plan on
 
 ---
 
-<details><summary>Visitor counter</summary>
+<details open>
+<summary>Visitor counter</summary>
 
 ![sadru](https://count.getloli.com/get/@sadru?theme=rule34)
 
