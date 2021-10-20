@@ -38,3 +38,11 @@ I enjoy programming and watching anime. I'm currently in high school and plan on
 ## Tools
 [![VsCode](https://img.shields.io/badge/VsCode-%230078D7.svg?&logo=vs-code&style=for-the-badge&logoColor=white)](https://code.visualstudio.com/)
 [![Windows 10](https://img.shields.io/badge/windows-10-%230078D7.svg?&logo=windows&style=for-the-badge&logoColor=white)](https://www.linux.org/)
+
+---
+
+<details><summary>Visitor counter</summary>
+
+![sadru](https://count.getloli.com/get/@sadru?theme=rule34)
+
+</details>
