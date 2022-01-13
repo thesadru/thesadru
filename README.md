@@ -1,7 +1,7 @@
 # About me
 Heya, I'm sadru, a programmer from Czech Republic. I am still a high school student but I am trying my best to learn as much as I can. I mainly use python but I want to eventually use other, lower level languages.
 
-My goal with every project I make is to make stuff more accessible to other people, be it a fancy downloader or a wrapper around an undocumented api. I am a hardocre fan of [tiangolo](https://github.com/tiangolo) and his work. [disnake](https://github.com/EQUENOS/disnake)'s command syntax is an example of that. My goal is to one day create code as great as his.
+My goal with every project I make is to make stuff more accessible to other people, be it a fancy downloader or a wrapper around an undocumented api. I am a hardocre fan of [tiangolo](https://github.com/tiangolo) and his work. [disnake](https://github.com/disnakedev/disnake)'s command syntax is an example of that. My goal is to one day create code as great as his.
 
 If you want to contact me or ask me any questions, the best way is through [Discord](https://discord.com/users/454513969265115137) (sadru#5438). I most likely won't take any friends so just join [my own private server](https://discord.gg/sMkSKRPuCR).
 
@@ -11,8 +11,7 @@ I enjoy programming and watching anime. I'm currently in high school and plan on
 ## My projects
 - [`genshinstats`](https://github.com/thesadru/genshinstats) - An api wrapper around the Genshin Impact api 
 - [`genshin.py`](https://github.com/thesadru/genshin.py) - A modern API wrapper for Genshin Impact built on asyncio and pydantic
-- [`disnake`](https://github.com/EQUENOS/disnake) - A discord.py fork with a fancy slash command syntax
-- [`culturebot`](https://github.com/thesadru/culturebot) - A bot for my private discord server
+- [`disnake`](https://github.com/disnakedev/disnake) - A discord.py fork with a fancy slash command syntax
 
 ![Sadru's github stats](https://github-readme-stats.vercel.app/api?username=thesadru&show_icons=true&theme=radical)
 
