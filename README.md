@@ -6,14 +6,13 @@ My goal with every project I make is to make stuff more accessible to other peop
 If you want to contact me or ask me any questions, the best way is through [Discord](https://discord.com/users/454513969265115137) (ashlen#5438). I most likely won't take any friends so just join [my support server](https://discord.gg/sMkSKRPuCR).
 
 ## My hobbies
-I code both as a hobby and for sometimes work. In my free time I watch anime/read anime. I do amateur linguistics and conlanging, but am not really active in any communities. I speak English, Czech, and French, but I'm learning the general phonology and morphology of many other languages.
+I code both as a hobby and for sometimes work. I speak English, Czech, and French, but I am also interested in amateur linguistics and conlanging.
 
 ## My projects
 - [`genshin.py`](https://github.com/thesadru/genshin.py) - A modern API wrapper for Genshin Impact and Honkai Impact 3rd built on asyncio and pydantic
+- [`noipe`](https://github.com/noipeK) - A service seamlessly combining various social media sites (WIP)
 
-![Sadru's github stats](https://github-readme-stats.vercel.app/api?username=thesadru&show_icons=true&theme=radical)
-
-![Sadru's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesadru&layout=compact&theme=radical)
+![Ashlen's github stats](https://github-readme-stats.vercel.app/api?username=thesadru&show_icons=true&theme=radical) &nbsp;&nbsp;&nbsp; ![Ashlen's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesadru&layout=compact&theme=radical)
 
 # My info
 
@@ -38,5 +37,6 @@ I code both as a hobby and for sometimes work. In my free time I watch anime/rea
 <summary>Visitor counter</summary>
 
 ![sadru](https://count.getloli.com/get/@sadru?theme=rule34)
+<!-- Adds personality but might need to be removed frankly. -->
 
 </details>
