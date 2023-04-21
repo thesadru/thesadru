@@ -30,13 +30,3 @@ I code both as a hobby and for sometimes work. I speak English, Czech, and Frenc
 ## Tools
 [![VsCode](https://img.shields.io/badge/VsCode-%230078D7.svg?&logo=vs-code&style=for-the-badge&logoColor=white)](https://code.visualstudio.com/)
 [![Windows 10](https://img.shields.io/badge/windows-10-%230078D7.svg?&logo=windows&style=for-the-badge&logoColor=white)](https://archlinux.org/)
-
----
-
-<details open>
-<summary>Visitor counter</summary>
-
-![sadru](https://count.getloli.com/get/@sadru?theme=rule34)
-<!-- Adds personality but might need to be removed frankly. -->
-
-</details>
