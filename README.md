@@ -1,9 +1,9 @@
 # About me
-Heya, I'm ashlen, a programmer living in Czech Republic. I am still a high school student but I am trying my best to learn as much as I can. I mainly use python & rust but I want to eventually use other, lower level languages.
+Heya, I'm ashlen, a programmer living in Czech Republic. I'm still a high school student but I'm trying my best to learn as much as I can. I mainly use python & rust but I want to eventually use other, lower level languages.
 
 My goal with every project I make is to make stuff more accessible to other people, be it a fancy downloader or a wrapper around an undocumented api. I love reflection and will not make a project without it.
 
-If you want to contact me or ask me any questions, the best way is through [Discord](https://discord.com/users/454513969265115137) (ashlen#5438). I most likely won't take any friends so just join [my support server](https://discord.gg/sMkSKRPuCR).
+If you want to contact me or ask me any questions, the best way is through [Discord](https://discord.com/users/454513969265115137) (`@ashleney`). I most likely won't take any friends so just join [my support server](https://discord.gg/sMkSKRPuCR).
 
 ## My hobbies
 I code both as a hobby and for sometimes work. I speak English, Czech, and French, but I am also interested in amateur linguistics and conlanging.
