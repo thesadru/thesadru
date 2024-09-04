@@ -20,9 +20,10 @@ I code both as a hobby and for sometimes work. I speak English, Czech, and Frenc
 [![AniList](https://img.shields.io/badge/anilist-%23000FFF.svg?&logo=anilist&style=for-the-badge&logoColor=white)](https://anilist.co/user/sadru)
 
 ## Languages
-[![Python](https://img.shields.io/badge/python-3.10-%234B8BBE.svg?&logo=python&style=for-the-badge&logoColor=white)](https://www.python.org/)
-[![Python](https://img.shields.io/badge/rust-2021-%23F46623.svg?&logo=rust&style=for-the-badge&logoColor=white)](https://www.rust-lang.org/)
+[![Python](https://img.shields.io/badge/python-3.12-%234B8BBE.svg?&logo=python&style=for-the-badge&logoColor=white)](https://www.python.org/)
+[![Rust](https://img.shields.io/badge/rust-%23F46623.svg?&logo=rust&style=for-the-badge&logoColor=white)](https://www.rust-lang.org/)
+![C++](https://img.shields.io/badge/c++-11-%23044F88.svg?&logo=cplusplus&style=for-the-badge&logoColor=white)
 
 ## Tools
-[![VsCode](https://img.shields.io/badge/VsCode-%230078D7.svg?&logo=vs-code&style=for-the-badge&logoColor=white)](https://code.visualstudio.com/)
-[![Windows 10](https://img.shields.io/badge/windows-10-%230078D7.svg?&logo=windows&style=for-the-badge&logoColor=white)](https://archlinux.org/)
+[![VsCode](https://img.shields.io/badge/VsCode-%230078D7.svg?&logo=sublimetext&style=for-the-badge&logoColor=white)](https://code.visualstudio.com/)
+[![Windows 11](https://img.shields.io/badge/windows-11-%230078D7.svg?&logo=linux&style=for-the-badge&logoColor=white)](https://archlinux.org/)
