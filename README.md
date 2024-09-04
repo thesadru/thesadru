@@ -8,13 +8,9 @@ If you want to contact me or ask me any questions, the best way is through [Disc
 ## My hobbies
 I code both as a hobby and for sometimes work. I speak English, Czech, and French, but I am also interested in amateur linguistics and conlanging.
 
-## My projects
-- [`genshin.py`](https://github.com/thesadru/genshin.py) - A modern API wrapper for Genshin Impact and Honkai Impact 3rd built on asyncio and pydantic
-- [`noipe`](https://github.com/noipeK) - A service seamlessly combining various social media sites (WIP)
+# My info
 
 ![Ashlen's github stats](https://github-readme-stats.vercel.app/api?username=thesadru&show_icons=true&theme=radical) &nbsp;&nbsp;&nbsp; ![Ashlen's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesadru&layout=compact&theme=radical)
-
-# My info
 
 ## Social Media
 [![Github](https://img.shields.io/badge/github-%23333333.svg?&logo=github&style=for-the-badge&logoColor=white)](https://github.com/thesadru)
