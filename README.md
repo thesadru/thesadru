@@ -1,12 +1,12 @@
 # About me
-Heya, I'm ashlen, a programmer living in Czech Republic. I'm still a high school student but I'm trying my best to learn as much as I can. I mainly use python & rust but I want to eventually use other, lower level languages.
+Heya, I'm ashlen, a programmer living in Czech Republic. I'm still a high school student but I'm trying my best to learn as much as I can. I mainly use python & c++ but I want to eventually use other, lower level languages.
 
 My goal with every project I make is to make stuff more accessible to other people, be it a fancy downloader or a wrapper around an undocumented api. I love reflection and will not make a project without it.
 
 If you want to contact me or ask me any questions, the best way is through [Discord](https://discord.com/users/454513969265115137) (`@ashleney`). I most likely won't take any friends so just join [my support server](https://discord.gg/sMkSKRPuCR).
 
 ## My hobbies
-I code both as a hobby and for sometimes work. I speak English, Czech, and French, but I am also interested in amateur linguistics and conlanging.
+I code both as a hobby and sometimes for work. I also do amateur linguistics and conlanging. 
 
 # My info
 
@@ -21,8 +21,8 @@ I code both as a hobby and for sometimes work. I speak English, Czech, and Frenc
 
 ## Languages
 [![Python](https://img.shields.io/badge/python-3.12-%234B8BBE.svg?&logo=python&style=for-the-badge&logoColor=white)](https://www.python.org/)
-[![Rust](https://img.shields.io/badge/rust-%23F46623.svg?&logo=rust&style=for-the-badge&logoColor=white)](https://www.rust-lang.org/)
 ![C++](https://img.shields.io/badge/c++-11-%23044F88.svg?&logo=cplusplus&style=for-the-badge&logoColor=white)
+[![Rust](https://img.shields.io/badge/rust-%23F46623.svg?&logo=rust&style=for-the-badge&logoColor=white)](https://www.rust-lang.org/)
 
 ## Tools
 [![VsCode](https://img.shields.io/badge/VsCode-%230078D7.svg?&logo=sublimetext&style=for-the-badge&logoColor=white)](https://code.visualstudio.com/)
