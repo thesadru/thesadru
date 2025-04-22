@@ -1,12 +1,9 @@
 # About me
-Heya, I'm ashlen, a programmer living in Czech Republic. I'm still a high school student but I'm trying my best to learn as much as I can. I mainly use python & c++ but I want to eventually use other, lower level languages.
+Heya, I'm ashlen, a programmer living in Czech Republic. I'm currently a student and code as a hobby. I mostly make downloaders and API wrappers. In my free time I do amateur linguistics and play videogames.
 
-My goal with every project I make is to make stuff more accessible to other people, be it a fancy downloader or a wrapper around an undocumented api. I love reflection and will not make a project without it.
+If you want to contact me or ask me any questions, the best way is through [Discord](https://discord.com/users/454513969265115137) (`@ashleney`). I most likely won't take any friends so just join [my support server](https://discord.gg/sMkSKRPuCR). 
 
-If you want to contact me or ask me any questions, the best way is through [Discord](https://discord.com/users/454513969265115137) (`@ashleney`). I most likely won't take any friends so just join [my support server](https://discord.gg/sMkSKRPuCR).
-
-## My hobbies
-I code both as a hobby and sometimes for work. I also do amateur linguistics and conlanging. 
+I'm nonbinary.
 
 # My info
 
@@ -14,10 +11,8 @@ I code both as a hobby and sometimes for work. I also do amateur linguistics and
 
 ## Social Media
 [![Github](https://img.shields.io/badge/github-%23333333.svg?&logo=github&style=for-the-badge&logoColor=white)](https://github.com/thesadru)
-[![PyPi](https://img.shields.io/badge/pypi-%230478D7.svg?&logo=pypi&style=for-the-badge&logoColor=white)](https://pypi.org/user/sadru)
 
 [![Discord](https://img.shields.io/badge/discord-%237289DA.svg?&logo=discord&style=for-the-badge&logoColor=white)](https://discord.com/users/454513969265115137)
-[![AniList](https://img.shields.io/badge/anilist-%23000FFF.svg?&logo=anilist&style=for-the-badge&logoColor=white)](https://anilist.co/user/sadru)
 
 ## Languages
 [![Python](https://img.shields.io/badge/python-3.12-%234B8BBE.svg?&logo=python&style=for-the-badge&logoColor=white)](https://www.python.org/)
