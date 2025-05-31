@@ -5,10 +5,6 @@ If you want to contact me or ask me any questions, the best way is through [Disc
 
 I'm nonbinary.
 
-# My info
-
-![Ashlen's github stats](https://github-readme-stats.vercel.app/api?username=thesadru&show_icons=true&theme=radical) &nbsp;&nbsp;&nbsp; ![Ashlen's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesadru&layout=compact&theme=radical)
-
 ## Social Media
 [![Github](https://img.shields.io/badge/github-%23333333.svg?&logo=github&style=for-the-badge&logoColor=white)](https://github.com/thesadru)
 
